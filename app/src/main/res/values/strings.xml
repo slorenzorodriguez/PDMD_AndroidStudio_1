@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EjemploLayoutC</string>
+    <string name="maintitle">Bridge</string>
+    <string name="contentDesc">BridgeImage</string>
+    <string name="redbutton">ROJO</string>
+    <string name="yellowbutton">AMARILLO</string>
+    <string name="botonback">Atrás</string>
+    <string name="botonG">Google</string>
+    <string name="textamarillo">AMARILLO</string>
+    <string name="textrojo">ROJO</string>
+
+</resources>
