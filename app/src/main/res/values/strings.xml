@@ -8,5 +8,6 @@
     <string name="botonG">Google</string>
     <string name="textamarillo">AMARILLO</string>
     <string name="textrojo">ROJO</string>
+    <string name = "botonpermiso">CAMARA</string>
 
 </resources>

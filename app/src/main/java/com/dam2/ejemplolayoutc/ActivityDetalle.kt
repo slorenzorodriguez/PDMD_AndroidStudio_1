@@ -23,16 +23,30 @@ class ActivityDetalle : AppCompatActivity() {
         }
         val message = intent.getStringExtra("color")
         txt1.text = message
+
+
+
+
+
+
+
+
+
+
+
+        // ------ MEJOR MANERA DE HACER; EN VEZ DE IF-ELSE SE USA WHEN --------- //
+       // when (value)
+        //{
+          //  "amarillo" -> {
+            //    txt1.setBackgroundResource (R.color.colorviewetc)
+              //  txt1.setText(value)
+            //}
+            //"rojo" ->{
+
+            //}
+        //}
+
     }
-
-    //private fun clickGoogle(view: View?) {
-
-    //}
-
-    //fun clickBack(view: View) {
-
-    //}
-
 }
 
 
